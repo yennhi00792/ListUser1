@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Phan Long",
+        "tel":"090999999",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"Jack",
+        "tel":"090999999",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Chanyeol",
+        "tel":"0902121212",
+        "Permission":2
+    },
+    {
+        "id":4,
+        "name":"Baekhyun",
+        "tel":"09011111111",
+        "Permission":3
+    },
+    {
+        "id":5,
+        "name":"Bạch Ngọc Đường",
+        "tel":"09033333",
+        "Permission":3
+    },
+    {
+        "id":6,
+        "name":"Triển Chiêu",
+        "tel":"09033333",
+        "Permission":3
+    },
+    {
+        "id":7,
+        "name":"Hạ Yến Chi",
+        "tel":"09033333",
+        "Permission":1
+    }
+]
